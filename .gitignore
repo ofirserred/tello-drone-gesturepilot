@@ -1,5 +1,5 @@
-.idea/
-.venv/
-_pycache_/
-Drone_images/
-Drone_images_Doc/
+.idea
+.venv
+__pycache__
+Drone_images
+Drone_images_Doc
