@@ -1,6 +1,0 @@
-0: Wrist
-1-4: Thumb (Base to Tip)
-5-8: Index Finger (Base to Tip)
-9-12: Middle Finger (Base to Tip)
-13-16: Ring Finger (Base to Tip)
-17-20: Pinky Finger (Base to Tip)
